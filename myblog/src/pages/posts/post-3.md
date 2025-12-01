@@ -9,7 +9,7 @@ image:
 tags: ["astro", "blogging", "coding with a purpose"]
 ---
 
-# My Second Blog Post
+# My Third Blog Post
 
 Published on: 2025-01-12
 
