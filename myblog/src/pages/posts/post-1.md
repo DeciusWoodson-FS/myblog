@@ -1,6 +1,6 @@
 ---
 title: "My First Blog Post"
-pubDate: 2025-11-30
+pubDate: 2025-11-31
 description: "the first post on my blog."
 author: "Woodson Decius"
 image:

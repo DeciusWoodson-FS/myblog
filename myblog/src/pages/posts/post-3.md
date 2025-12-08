@@ -1,11 +1,11 @@
 ---
-title: "My First Blog Post"
-pubDate: 2025-01-12
+title: "My Third Blog Post"
+pubDate: 2025-12-02
 description: "the second post on my blog."
 author: "Woodson Decius"
 image:
-  url: "https://docs.astro.build/assets/rose.webp"
-  alt: "The Astro logo on a dark background with a pink glow."
+  url: "https://images.unsplash.com/photo-1627398242454-45a1465c2479?q=80&w=2148&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  alt: "A screen with code on it."
 tags: ["astro", "blogging", "coding with a purpose"]
 ---
 
